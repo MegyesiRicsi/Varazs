@@ -1,0 +1,7 @@
+Z:\Kalapacsvetes\Pars2012\bin\Debug\Pars2012.exe.config
+Z:\Kalapacsvetes\Pars2012\bin\Debug\Pars2012.exe
+Z:\Kalapacsvetes\Pars2012\bin\Debug\Pars2012.pdb
+Z:\Kalapacsvetes\Pars2012\obj\Debug\Pars2012.csprojAssemblyReference.cache
+Z:\Kalapacsvetes\Pars2012\obj\Debug\Pars2012.csproj.CoreCompileInputs.cache
+Z:\Kalapacsvetes\Pars2012\obj\Debug\Pars2012.exe
+Z:\Kalapacsvetes\Pars2012\obj\Debug\Pars2012.pdb
